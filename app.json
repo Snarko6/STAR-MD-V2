@@ -16,7 +16,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib0xCZlhzWmthRWt3NlBFaWkxV0tTMGNRQ0VlTXJ5TzJjZ21rWnhZL0RHcz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicmd5SlB2WHMvYWV0Wjhpait2dGRNcVVmNmRPa3RZMVdIMUdtQS83cEhIbz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIyUEJuOEFnb1RBbzA5cVhzaTl4YjB2YWs3VmFXMTlCTUttWVNrandpS0hRPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJwVHhNL0VmZk8vaEhoK1ZWRFUzUG80eks5a3dKWlNSUTJNRTIvVE9kL2tFPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjRLZjR5amg5QlAyU0EyUE5OV3JqSkY2ZytkNlBMYkRpQkE4Y3h4aUpzRWs9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IllFRmRMRU0wcVBqMVVvVU52eElhaWlTSDFid3Blb0xaemdQWUxxL1dWa1E9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMEZMdUNpUG1IRGdPd05CVWpyN2dwOHFoL0l0dUkxWGwvcHdXOU1nemZHdz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiemNjRjV0NEMrRjJJRk1GUytKVTg4WTVIWEFLclF4aTR6dEFoQll5TXoybz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Inp4REY3eGtjWDU0T2tWcDdEYUZjcFJlOEZnWXR1RnU4Q09GUjVYTGZIMmM0aDdCZGpnZjFyMVBHZHd4MHpOTi82UFVnWWd1OWRuK05jc2NscTd2NGhRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6OTMsImFkdlNlY3JldEtleSI6IjF4a2hNUStsc2xWbTlMLzZiaWZ3dHlXanF4VlU4ZVV2N24wenFna2pzems9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMjAxMDk1NDk5ODY2QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjJGQTYyQjBGNjM4OTg1MDQ5MjE4MDgzNUM0MjBERkYyIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3MTMzMDQxMDN9LHsia2V5Ijp7InJlbW90ZUppZCI6IjIwMTA5NTQ5OTg2NkBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiI3NTBDNUVDRDZEQzE4QUFERjAwRDRGNUM3MkExN0I0NiJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzEzMzA0MTAzfV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiI4OFpWeVBRalRuZVlqWkZiSnZFWW1nIiwicGhvbmVJZCI6IjBjOTE2MWMyLWE5MGItNDlmOC1iMDhlLTg5MjY0ZjhiMDNhOCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJUa3NBaC9pUE0ySlNZSkV6SHEwdFoyMFhvdDQ9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoienZPQTg3cGpnanpXRmd6Mi9YYndpejNyVXlZPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlQ5R1cyTlpNIiwibWUiOnsiaWQiOiIyMDEwOTU0OTk4NjY6NTdAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoi2LPYs9mG2KPYsdmD2KQg2KPZhCDYqNij2LTYo9ij4pmhICwifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ1BlTHhMOEZFSnprKzdBR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6Imd1ZDI1Z3hTUVNxekcySXloZEpJd0RneFd4WUtra2FJRy9xTFJ6WHg1UjA9IiwiYWNjb3VudFNpZ25hdHVyZSI6InBUM0FlZndsOE9sUHdOREYwQ3lHaWNLUzFveE5wd2M4UHM5eFpxQTBoYzhYajIwZTUxaVZNNjJiOEpESnFTRzlhVUQ1bWp0YlhxMGhlRytUMGY4QkRBPT0iLCJkZXZpY2VTaWduYXR1cmUiOiIwWlIzOFJOSWNFSkx6QmFpUWcxL0xkTEV5SHJXTVBiRVNMMitmNnBHQ2ZGSmFYbVp5MTZXZkVYME9HR0Q5aEZLdG4zMHRIZnZES05heXRwN1ZPNGZpUT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjIwMTA5NTQ5OTg2Njo1N0BzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJZTG5kdVlNVWtFcXN4dGlNb1hTU01BNE1Wc1dDcEpHaUJ2NmkwYzE4ZVVkIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzEzMzA0MDk1LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUxBYyJ9"
     },
     "MODE": {
       "description": "mode public or private",
@@ -26,27 +26,17 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": "*"
+      "value": "#"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": "8cf895b5-dbdf-4d5d-b2a1-b31319db8aa6"
+      "value": "HRKU-cfec4e9e-e0e5-4438-930e-575e63ddc294"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
-    },
-    "statusview": {
-      "description": "make it true if you want bot to view status",
-      "required": false,
-      "value": "true"
-    },
-    "autoRead": {
-      "description": "make it true if you want bot to read messages",
-      "required": false,
-      "value": "false"
+      "value": "snarko-7676"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
