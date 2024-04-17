@@ -7,8 +7,8 @@ const { levelling } = '../lib/levelling.js'
 import moment from 'moment-timezone'
 import { promises } from 'fs'
 import { join } from 'path'
-const time = moment.tz('Asia/Kolkata').format('HH')
-let wib = moment.tz('Asia/Kolkata').format('HH:mm:ss')
+const time = moment.tz('Africa/Cairo').format('HH')
+let wib = moment.tz('Africa/Cairo').format('HH:mm:ss')
 //import db from '../lib/database.js'
 
 let handler = async (m, { conn, usedPrefix, command}) => {
@@ -38,9 +38,9 @@ let quote = quotes[Math.floor(Math.random() * quotes.length)];
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 
-┏━━🤖 _BOT STATUS:_🤖━━┓
-┃ 🏮  *المطور:* Excel Amadi
-┃ 🤡  *اسم البوت:* STAR-MD-V2
+┏━━🤖 `الاحصائيات`:_🤖━━┓
+┃ 🏮  *المطور:* سناركو الباشاا
+┃ 🤡  *اسم البوت:* `SNARKO-MD`
 ┃ 💻  *الهوست:* Linux Lair
 ┃ 📣  *البادئه:* ${usedPrefix} 
 ┃ 🕓  *وقت التشغيل:* ${uptime}
